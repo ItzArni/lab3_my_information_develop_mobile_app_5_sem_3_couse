@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">My Information</string>
+    <string name="email">unknown@mail.ru</string>
+    <string name="email_label">Почта</string>
+    <string name="full_name">Геворгян Генри Каренович</string>
+    <string name="phone">+7 777 777 77 77</string>
+    <string name="phone_label">Телефон</string>
+    <string name="social">vk.com/donsaymyurl</string>
+    <string name="social_label">Соцсеть</string>
+    <string name="student_title">Студент КемГУ • ПИз-241</string>
+    <style name="AppTheme" parent="android:style/Theme.Material.Light.NoActionBar">
+        <item name="android:windowLightStatusBar">true</item>
+        <item name="android:windowLightNavigationBar">true</item>
+        <item name="android:windowActionModeOverlay">true</item>
+        <item name="android:windowBackground">#FFFFFF</item>
+    </style>
+</resources>
